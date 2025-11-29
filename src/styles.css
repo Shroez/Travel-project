@@ -31,7 +31,7 @@ body {
 }
 
 .grid-3-columns {
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
 .card {
